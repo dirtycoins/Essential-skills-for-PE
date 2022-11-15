@@ -11,3 +11,4 @@ Pentest (Penetration Testing – Kiểm thử xâm nhập) là một phần quan
 * Kỹ thuật Google Dork là gì?
 * HTTP là gì? Khai thác CMS.FPT-X.EDU.VN bằng JoomlaScann
 
+(Bài viết được chia sẻ phục vụ mục đích học tập, chính chủ hoàn toàn không khuyến khích các bạn dùng để thực hiện các hành vi sai trái, chính chủ hoàn toàn không chịu trách nhiệm nếu có các sự cố xảy ra)
